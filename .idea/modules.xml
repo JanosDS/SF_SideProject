@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/M1-ComputerSim/M1-ComputerSim.iml" filepath="$PROJECT_DIR$/M1-ComputerSim/M1-ComputerSim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M2-Manillen/M2-Manillen.iml" filepath="$PROJECT_DIR$/M2-Manillen/M2-Manillen.iml" />
       <module fileurl="file://$PROJECT_DIR$/SF_SideProject.iml" filepath="$PROJECT_DIR$/SF_SideProject.iml" />
     </modules>
   </component>

@@ -1,14 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa49d756-959e-4fac-932e-160629d0f6be" name="Changes" comment="" />
+    <list default="true" id="fa49d756-959e-4fac-932e-160629d0f6be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/M1-ComputerSim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/DeviceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/DeviceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/component/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/component/Coolable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/component/PowerUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/component/processor/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/component/processor/ProcessorBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/component/ram/Ram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/component/screen/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/component/storage/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/component/storage/StorageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/peripheral/Wired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1-ComputerSim/src/device/peripheral/Wireless.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2-Manillen/M2-Manillen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2-Manillen/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2-Manillen/src/deck/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2-Manillen/src/deck/DeckHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2-Manillen/src/deck/card/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2-Manillen/src/deck/card/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2-Manillen/src/deck/card/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2-Manillen/src/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2-Manillen/src/game/Round.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2-Manillen/src/game/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M2-Manillen/src/player/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/M1-ComputerSim/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2M36D8Ojz2uem3zTRQzPvXfcyF6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,9 +69,39 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/_development/switchfully",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_development\SF_SideProject\M2-Manillen\src\deck" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="M2-Manillen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +110,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676983805557</updated>
+      <workItem from="1676983806715" duration="3662000" />
+      <workItem from="1676988982597" duration="4489000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
